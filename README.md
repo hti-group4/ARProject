@@ -4,9 +4,9 @@
 
 Copyright 2019 by:
 
-- Tamilselvi Jayavelu,
+- Arttu Ylhävuori,
 - Louis Sosa and
-- Arttu Ylhävuori
+- Tamilselvi Jayavelu
 
 ## Getting started
 
