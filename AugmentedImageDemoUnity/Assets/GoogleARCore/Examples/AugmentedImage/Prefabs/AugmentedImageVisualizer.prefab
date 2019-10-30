@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 655793353707240a195aee929b80d41a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FrameLowerLeft: {fileID: 100002, guid: 74aca5660a7fd4b9eb3611a73c368d15, type: 3}
+  FrameLowerLeft: {fileID: 1490084683344658}
   FrameLowerRight: {fileID: 1182182374406134}
   FrameUpperLeft: {fileID: 1308591232281908}
   FrameUpperRight: {fileID: 1464705413935860}
