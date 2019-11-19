@@ -1,5 +1,6 @@
 # ARProject
 
+⚠️DEPRECATED⚠️
 > A project work made by three Human-Technology Interaction students at Tampere University
 
 Copyright 2019 by:
